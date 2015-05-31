@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog.MockingWebAPI", "Blog.MockingWebAPI\Blog.MockingWebAPI.csproj", "{88C685B3-1EA0-4465-8F99-6E2267710478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog.MockingWebAPI.Tests", "Blog.MockingWebAPI.Tests\Blog.MockingWebAPI.Tests.csproj", "{21C87EF0-0915-46C3-ABB2-C34ACED0A855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88C685B3-1EA0-4465-8F99-6E2267710478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C685B3-1EA0-4465-8F99-6E2267710478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C685B3-1EA0-4465-8F99-6E2267710478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C685B3-1EA0-4465-8F99-6E2267710478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C87EF0-0915-46C3-ABB2-C34ACED0A855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C87EF0-0915-46C3-ABB2-C34ACED0A855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C87EF0-0915-46C3-ABB2-C34ACED0A855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C87EF0-0915-46C3-ABB2-C34ACED0A855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
